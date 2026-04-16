@@ -353,3 +353,5 @@ public class SlotMachineManager : MonoBehaviour
         ShowWarnLabel();
     }
 }
+
+// GL sa frontend <3 
